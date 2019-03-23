@@ -1,0 +1,28 @@
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+      /* insert your class name and add customized css to make responsive for smaller screen */
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  /* insert your class name and add customized css to make responsive for medium screen */
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  /* insert your class name and add customized css to make responsive for tablet/ipad screen */
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1380px) {
+  /* insert your class name and add customized css to make responsive for smaller laptop screen */
+
+}
+
+@media only screen and (min-width: 1381px) and (max-width: 1440px) {
+  /* insert your class name and add customized css to make responsive for laptop screen */
+
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1980px) {
+  /* insert your class name and add customized css to make responsive for larger/desktop screen */
+
+}
